@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://epmastershockey.co.za/sitemap.xml
